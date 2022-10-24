@@ -188,20 +188,7 @@ If the folder name has no white spaces e.g "My-project", the object should be:
 <table>
   <tbody><tr>
      <td align="center"><a href="https://github.com/arpit456jain"><img alt="" src="https://avatars.githubusercontent.com/arpit456jain" width="100px;"><br><sub><b> Arpit Jain </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/ankitapuri"><img alt="" src="https://avatars.githubusercontent.com/ankitapuri" width="100px;"><br><sub><b> Ankita Puri</b></sub></a><br></td></a></td>
-
-</tbody></table>
-
-
- <h1 align=center> Project Mentors 👩‍🏫 </h1>
-<p align="center">
-<table>
-  <tbody><tr>
-     <td align="center"><a href="https://github.com/astha2412"><img alt="" src="https://avatars.githubusercontent.com/u/87020129?v=4" width="100px;"><br><sub><b>Kumari Astha Rani </b></sub></a><br></td> </a></td>
-     <td align="center"><a href="https://github.com/VidhiBhatt01"><img alt="" src="https://avatars.githubusercontent.com/u/83345228?v=4" width="100px;"><br><sub><b> Vidhi Bhatt</b></sub></a><br></td></a></td>
-		 <td align="center"><a href="https://github.com/DEEPALI-SUK"><img alt="" src="https://avatars.githubusercontent.com/u/64724041?v=4" width="100px;"><br><sub><b> DEEPALI-SUK</b></sub></a><br></td></a></td>
-		 <td align="center"><a href="https://github.com/DEEPIKA-SUK"><img alt="" src="https://avatars.githubusercontent.com/u/64724039?v=4" width="100px;"><br><sub><b> DEEPIKA-SUK</b></sub></a><br></td></a></td>
-
+     </tr>
 </tbody></table>
 
 <h2 align=center> ✨ Contributors </h2>
